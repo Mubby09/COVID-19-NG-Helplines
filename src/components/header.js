@@ -7,7 +7,6 @@ const Header = () => {
       <h1 className={classes.Header}>
         THE CORONA VIRUS IS NOT A <b>HOAX</b>!!!!
       </h1>
-      <p>The following List Consists of the CORONA VIRUS state Helplines</p>
     </div>
   );
 };
